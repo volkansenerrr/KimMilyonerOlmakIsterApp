@@ -1,0 +1,7 @@
+C:\Users\I-Life\source\repos\kimMilyonerOlmakIster\kimMilyonerOlmakIster\bin\Debug\kimMilyonerOlmakIster.exe.config
+C:\Users\I-Life\source\repos\kimMilyonerOlmakIster\kimMilyonerOlmakIster\bin\Debug\kimMilyonerOlmakIster.exe
+C:\Users\I-Life\source\repos\kimMilyonerOlmakIster\kimMilyonerOlmakIster\bin\Debug\kimMilyonerOlmakIster.pdb
+C:\Users\I-Life\source\repos\kimMilyonerOlmakIster\kimMilyonerOlmakIster\obj\Debug\kimMilyonerOlmakIster.csproj.AssemblyReference.cache
+C:\Users\I-Life\source\repos\kimMilyonerOlmakIster\kimMilyonerOlmakIster\obj\Debug\kimMilyonerOlmakIster.csproj.CoreCompileInputs.cache
+C:\Users\I-Life\source\repos\kimMilyonerOlmakIster\kimMilyonerOlmakIster\obj\Debug\kimMilyonerOlmakIster.exe
+C:\Users\I-Life\source\repos\kimMilyonerOlmakIster\kimMilyonerOlmakIster\obj\Debug\kimMilyonerOlmakIster.pdb
