@@ -13,7 +13,7 @@ namespace kimMilyonerOlmakIster
         {
 
             Console.OutputEncoding = Encoding.GetEncoding("ibm857");
-            //Volkan Şener
+         
             Oyun oyun = new Oyun();
 
             oyun.soruEkle("Hangi gezegen güneş sistemindeki beşinci gezegendir?", new string[] { "Mars", "Jüpiter", "Neptün", "Pluton" }, "B" , 1000 );
